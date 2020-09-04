@@ -12,4 +12,5 @@
 
  int main(int argc,char **argv){
     printf("Matthew Bigge\n");
+    printf("David Ryckman\n");
  }
